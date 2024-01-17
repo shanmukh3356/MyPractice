@@ -1,5 +1,5 @@
 #!bin/bash
 
-PERSONS=( "sai" "reddy" )
+PERSONS=("Sai" "Reddy")
 
-echo "Printing first person:${PERSONS[0]}"
+echo "Printing first person: ${PERSONS[0]}"
